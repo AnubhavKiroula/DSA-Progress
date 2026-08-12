@@ -67,3 +67,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+.eggs/
+
+# Environment / secrets — NEVER commit these
+.env
+.env.local
+*.secret
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
