@@ -74,6 +74,7 @@ jobs:
             COMMIT_MSG="AutoSync: update LeetCode solutions [$(date -u +'%Y-%m-%d')]"
           fi
           git commit -m "$COMMIT_MSG"
+          git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
       # -----------------------------------------------------------------------
