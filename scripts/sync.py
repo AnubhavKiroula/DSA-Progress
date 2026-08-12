@@ -252,7 +252,7 @@ def build_readme(problem: dict, lang: str, runtime: str = "", memory: str = "") 
 {hints_section}
 ---
 
-*Auto-synced by [DSA-Progress](https://github.com/AnubhavKiroula/DSA-Progress) GitHub Action.*
+*Auto-synced by [DSA-Progress](https://github.com/AnubhavKiroula/DSA-Progress)*
 """
 
 
