@@ -312,7 +312,8 @@ def fetch_recent_accepted(session: requests.Session) -> dict[str, dict]:
                 continue
             slug = sub["titleSlug"]
             ts   = int(sub.get("timestamp", 0))
-            if slug not in accepted or ts > accepted[slug].get("timestamp", 0):
+            if slug not in accepted or ts > int(accepted[slug].get("timestamp", 0)):
+                sub["timestamp"] = ts   # normalise to int
                 accepted[slug] = sub
 
         if not sl.get("hasNext"):

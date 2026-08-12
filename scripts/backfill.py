@@ -242,7 +242,8 @@ def fetch_all_accepted_submissions(session: requests.Session) -> dict[str, dict]
             slug = sub.get("titleSlug", "")
             ts   = int(sub.get("timestamp", 0))
             # Keep only the most recent accepted submission per problem
-            if slug not in accepted or ts > accepted[slug].get("timestamp", 0):
+            if slug not in accepted or ts > int(accepted[slug].get("timestamp", 0)):
+                sub["timestamp"] = ts   # normalise to int
                 accepted[slug] = sub
 
         has_next = sl.get("hasNext", False)
