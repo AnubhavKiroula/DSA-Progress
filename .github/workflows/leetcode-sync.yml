@@ -68,7 +68,12 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
           git add problems/ README.md
           git diff --cached --quiet && echo "Nothing to commit" && exit 0
-          git commit -m "chore(sync): update LeetCode solutions [$(date -u +'%Y-%m-%d')]"
+          # Use LeetHub-style message from sync script, fallback to date-based
+          COMMIT_MSG="${{ steps.sync.outputs.commit_msg }}"
+          if [ -z "$COMMIT_MSG" ]; then
+            COMMIT_MSG="AutoSync: update LeetCode solutions [$(date -u +'%Y-%m-%d')]"
+          fi
+          git commit -m "$COMMIT_MSG"
           git push origin HEAD:${{ github.ref_name }}
 
       # -----------------------------------------------------------------------

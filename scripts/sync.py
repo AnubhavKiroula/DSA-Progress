@@ -324,6 +324,46 @@ def fetch_recent_accepted(session: requests.Session) -> dict[str, dict]:
     return accepted
 
 
+def build_commit_message(updated: list[dict]) -> str:
+    """
+    Build a LeetHub-style commit message.
+
+    Single problem:
+        Time: 56 ms (96.46%), Space: 59 MB (33.52%) - AutoSync
+        \n
+        0011. Container With Most Water
+
+    Multiple problems:
+        AutoSync: 3 new LeetCode solution(s) [2026-08-12]
+        \n
+        - 0011. Container With Most Water | Time: 56ms, Space: 59MB
+        - 0001. Two Sum                   | Time: 0ms, Space: 8MB
+        ...
+    """
+    import datetime
+    today = datetime.date.today().isoformat()
+
+    if len(updated) == 1:
+        p = updated[0]
+        runtime = p.get("runtime", "N/A")
+        memory  = p.get("memory",  "N/A")
+        fid     = str(p.get("questionFrontendId", "?")).zfill(4)
+        title   = p.get("title", "Unknown")
+        return (
+            f"Time: {runtime}, Space: {memory} - AutoSync\n\n"
+            f"{fid}. {title}"
+        )
+    else:
+        lines = [f"AutoSync: {len(updated)} new LeetCode solution(s) [{today}]", ""]
+        for p in updated:
+            fid     = str(p.get("questionFrontendId", "?")).zfill(4)
+            title   = p.get("title", "Unknown")
+            runtime = p.get("runtime", "N/A")
+            memory  = p.get("memory",  "N/A")
+            lines.append(f"- {fid}. {title} | Time: {runtime}, Space: {memory}")
+        return "\n".join(lines)
+
+
 def main():
     session = build_session()
     PROBLEMS_DIR.mkdir(parents=True, exist_ok=True)
@@ -334,6 +374,7 @@ def main():
 
     any_changes = False
     counts: dict[str, int] = {}
+    updated_problems: list[dict] = []   # track per-problem stats for commit msg
 
     # Count existing solutions
     for folder in PROBLEMS_DIR.iterdir():
@@ -350,14 +391,14 @@ def main():
         title  = sub.get("title", slug)
         log.info("Processing: %s (%s)", title, lang)
 
-        # Fetch code
+        # Fetch code + performance stats
         time.sleep(REQUEST_DELAY_S)
         try:
-            detail = graphql(session, SUBMISSION_DETAIL_QUERY, {"submissionId": int(sub_id)})
-            d      = detail.get("data", {}).get("submissionDetails", {})
-            code   = d.get("code", "")
-            runtime = d.get("runtimeDisplay", "")
-            memory  = d.get("memoryDisplay", "")
+            detail  = graphql(session, SUBMISSION_DETAIL_QUERY, {"submissionId": int(sub_id)})
+            d       = detail.get("data", {}).get("submissionDetails", {})
+            code    = d.get("code", "")
+            runtime = d.get("runtimeDisplay", "N/A")
+            memory  = d.get("memoryDisplay",  "N/A")
         except Exception as exc:
             log.warning("  Could not fetch details for %s: %s", slug, exc)
             continue
@@ -394,6 +435,13 @@ def main():
             any_changes = True
             ext = file_ext(lang)
             counts[ext] = counts.get(ext, 0) + 1
+            # Store stats for commit message
+            updated_problems.append({
+                "questionFrontendId": problem.get("questionFrontendId", sub_id),
+                "title":   problem.get("title", title),
+                "runtime": runtime,
+                "memory":  memory,
+            })
 
     # Update root README stats
     if any_changes:
@@ -402,10 +450,17 @@ def main():
     else:
         log.info("✅ Sync complete — no new changes.")
 
-    # Signal to GitHub Actions whether anything changed
+    # Signal to GitHub Actions: changes flag + LeetHub-style commit message
     if "GITHUB_OUTPUT" in os.environ:
+        commit_msg = build_commit_message(updated_problems) if updated_problems else ""
+        # Escape newlines for GITHUB_OUTPUT multiline support
         with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
             fh.write(f"changes={'true' if any_changes else 'false'}\n")
+            if commit_msg:
+                # Use heredoc syntax for multiline values
+                fh.write("commit_msg<<EOF\n")
+                fh.write(commit_msg + "\n")
+                fh.write("EOF\n")
 
 
 def update_readme_stats(counts: dict[str, int]) -> None:
