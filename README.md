@@ -132,8 +132,8 @@ git push
 <!-- Stats are auto-updated by the sync workflow -->
 | Metric | Count |
 |--------|-------|
-| Total Problems Solved | 84 |
-| C++ Solutions | 83 |
+| Total Problems Solved | 87 |
+| C++ Solutions | 86 |
 | Python Solutions | 1 |
 | SQL Solutions | 0 |
 
