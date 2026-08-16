@@ -64,9 +64,14 @@ This project is licensed under the [MIT License](LICENSE).
 ## Hash Table
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 ## String
 |  |
 | ------- |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
+## Array
+|  |
+| ------- |
+| [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
 <!---LeetCode Topics End-->
