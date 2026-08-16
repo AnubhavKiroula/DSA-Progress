@@ -58,3 +58,15 @@ DSA-Progress/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
+## String
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
+<!---LeetCode Topics End-->
