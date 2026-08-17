@@ -67,6 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -76,8 +77,13 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
