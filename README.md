@@ -72,6 +72,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -82,6 +83,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
