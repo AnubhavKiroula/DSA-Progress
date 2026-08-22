@@ -103,6 +103,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
@@ -160,6 +161,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Two Pointers
 |  |
 | ------- |
