@@ -130,6 +130,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
