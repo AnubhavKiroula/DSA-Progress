@@ -151,6 +151,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
