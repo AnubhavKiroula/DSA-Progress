@@ -73,6 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -90,6 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 ## Array
@@ -100,6 +102,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -119,6 +122,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
