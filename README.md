@@ -89,6 +89,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -104,6 +105,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
