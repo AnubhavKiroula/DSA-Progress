@@ -85,6 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
@@ -125,6 +126,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -194,6 +196,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -206,4 +209,12 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
