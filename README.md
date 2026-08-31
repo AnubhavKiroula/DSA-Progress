@@ -98,6 +98,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
@@ -176,6 +177,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
