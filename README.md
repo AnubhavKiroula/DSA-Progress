@@ -120,6 +120,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
