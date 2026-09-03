@@ -145,6 +145,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
