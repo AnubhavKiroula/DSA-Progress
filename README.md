@@ -147,6 +147,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +180,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
