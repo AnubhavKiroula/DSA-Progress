@@ -101,6 +101,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
@@ -187,6 +188,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
@@ -230,6 +232,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
