@@ -188,6 +188,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
@@ -257,4 +258,24 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
