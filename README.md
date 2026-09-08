@@ -242,6 +242,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -279,4 +280,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
