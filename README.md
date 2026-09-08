@@ -198,6 +198,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
