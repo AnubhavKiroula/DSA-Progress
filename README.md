@@ -94,6 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -145,6 +146,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
@@ -165,6 +167,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +201,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
