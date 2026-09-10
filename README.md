@@ -295,6 +295,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## String Matching
 |  |
 | ------- |
