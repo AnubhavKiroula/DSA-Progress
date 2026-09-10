@@ -173,6 +173,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
@@ -196,6 +197,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
@@ -302,4 +304,5 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
