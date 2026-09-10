@@ -104,6 +104,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0796-rotate-string) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -289,4 +290,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
