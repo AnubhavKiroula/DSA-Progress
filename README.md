@@ -64,6 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
@@ -189,6 +191,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
