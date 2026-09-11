@@ -127,6 +127,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -237,6 +238,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -308,4 +310,8 @@ This project is licensed under the [MIT License](LICENSE).
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
