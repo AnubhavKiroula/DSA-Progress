@@ -94,6 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -148,6 +149,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
@@ -310,8 +312,13 @@ This project is licensed under the [MIT License](LICENSE).
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
