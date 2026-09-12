@@ -90,6 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
@@ -148,6 +149,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -173,6 +175,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -216,6 +219,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
+| [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
@@ -329,4 +333,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
