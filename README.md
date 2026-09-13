@@ -124,6 +124,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -250,6 +251,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -328,6 +330,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Enumeration
 |  |
