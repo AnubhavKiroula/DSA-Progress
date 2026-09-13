@@ -274,6 +274,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -318,6 +319,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
