@@ -216,6 +216,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -344,4 +345,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
