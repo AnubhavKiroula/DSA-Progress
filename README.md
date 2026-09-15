@@ -125,6 +125,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -281,6 +282,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
