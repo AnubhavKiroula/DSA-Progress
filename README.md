@@ -154,6 +154,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
