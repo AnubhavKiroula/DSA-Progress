@@ -137,6 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -355,6 +356,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
