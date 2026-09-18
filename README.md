@@ -78,6 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -141,6 +142,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -357,6 +359,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
