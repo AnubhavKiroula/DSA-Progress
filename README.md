@@ -128,6 +128,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -265,6 +266,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -287,6 +289,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
