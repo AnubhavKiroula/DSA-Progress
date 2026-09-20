@@ -199,6 +199,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
@@ -377,4 +378,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
