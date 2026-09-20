@@ -203,6 +203,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
