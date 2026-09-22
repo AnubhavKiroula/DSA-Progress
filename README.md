@@ -134,6 +134,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -227,6 +228,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
@@ -371,6 +373,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
@@ -378,6 +381,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 ## Geometry
 |  |
@@ -387,4 +391,16 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
