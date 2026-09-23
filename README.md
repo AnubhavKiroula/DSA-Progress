@@ -204,6 +204,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
@@ -259,6 +260,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
