@@ -321,6 +321,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
@@ -413,4 +414,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
