@@ -124,6 +124,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2942-find-words-containing-character](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2942-find-words-containing-character) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3498-reverse-degree-of-a-string) |
@@ -171,6 +172,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2942-find-words-containing-character](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
