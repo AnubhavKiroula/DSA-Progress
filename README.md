@@ -113,6 +113,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0796-rotate-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
@@ -227,6 +228,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Prefix Sum
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
