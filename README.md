@@ -249,6 +249,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1925-count-square-sum-triples) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
@@ -393,6 +394,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
