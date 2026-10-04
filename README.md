@@ -251,6 +251,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1925-count-square-sum-triples) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
@@ -318,6 +319,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -346,6 +348,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
