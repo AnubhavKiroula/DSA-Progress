@@ -249,6 +249,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0728-self-dividing-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1925-count-square-sum-triples) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
@@ -305,6 +306,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1688-count-of-matches-in-tournament) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
