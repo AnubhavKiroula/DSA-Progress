@@ -138,6 +138,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
@@ -276,6 +277,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Stack
