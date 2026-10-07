@@ -93,6 +93,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -169,6 +170,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -255,6 +257,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2525-categorize-box-according-to-criteria) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -309,6 +312,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1688-count-of-matches-in-tournament](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1688-count-of-matches-in-tournament) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
