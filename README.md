@@ -48,8 +48,8 @@ DSA-Progress/
 
 | Metric | Count |
 |---|---|
-| Total Problems Solved | 172 |
-| C++ Solutions | 171 |
+| Total Problems Solved | 187 |
+| C++ Solutions | 186 |
 | Python Solutions | 1 |
 | SQL Solutions | 0 |
 
