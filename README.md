@@ -177,6 +177,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2942-find-words-containing-character) |
@@ -417,6 +418,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1925-count-square-sum-triples](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
