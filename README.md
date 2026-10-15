@@ -469,16 +469,24 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
