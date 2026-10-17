@@ -398,6 +398,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -408,6 +409,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
