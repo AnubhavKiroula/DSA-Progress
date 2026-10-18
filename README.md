@@ -295,6 +295,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
@@ -338,6 +339,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -399,6 +401,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -411,6 +414,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
