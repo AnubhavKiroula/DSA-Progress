@@ -248,6 +248,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
@@ -395,6 +396,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -411,6 +413,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
