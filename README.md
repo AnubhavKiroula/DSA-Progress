@@ -147,6 +147,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -226,6 +227,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
@@ -347,6 +349,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0142-linked-list-cycle-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -362,6 +365,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -517,4 +521,9 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
