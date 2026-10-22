@@ -314,6 +314,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
@@ -347,6 +348,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
@@ -414,6 +416,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0206-reverse-linked-list) |
@@ -463,6 +466,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0324-wiggle-sort-ii) |
 ## Primality Test
@@ -528,4 +532,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
