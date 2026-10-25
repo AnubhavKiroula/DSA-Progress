@@ -302,6 +302,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
@@ -499,12 +500,14 @@ This project is licensed under the [MIT License](LICENSE).
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -517,6 +520,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
