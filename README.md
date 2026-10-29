@@ -510,6 +510,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -523,6 +524,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -543,6 +545,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -567,4 +570,8 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
