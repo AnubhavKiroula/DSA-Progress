@@ -226,6 +226,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
@@ -372,6 +373,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -510,6 +512,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
@@ -549,6 +552,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
