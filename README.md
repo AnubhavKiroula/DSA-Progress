@@ -158,6 +158,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
@@ -329,6 +330,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -366,6 +368,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
@@ -385,6 +388,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
