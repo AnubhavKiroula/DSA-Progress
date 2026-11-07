@@ -151,6 +151,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -252,6 +253,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
