@@ -202,6 +202,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3663-find-the-least-frequent-digit) |
@@ -302,6 +303,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +356,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2295-replace-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2295-replace-elements-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
