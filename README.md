@@ -308,6 +308,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
@@ -530,6 +531,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
@@ -548,6 +550,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0101-symmetric-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -575,6 +578,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
@@ -611,5 +615,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
