@@ -211,6 +211,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -383,6 +384,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2396-strictly-palindromic-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
