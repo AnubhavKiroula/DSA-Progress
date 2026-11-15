@@ -202,6 +202,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3364-minimum-positive-sum-subarray) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -252,6 +253,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +262,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3904-smallest-stable-index-ii) |
 ## Math
