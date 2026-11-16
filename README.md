@@ -115,6 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
@@ -270,6 +271,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0231-power-of-two) |
@@ -355,6 +357,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1688-count-of-matches-in-tournament) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2154-keep-multiplying-found-values-by-two) |
