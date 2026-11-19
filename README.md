@@ -162,6 +162,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0697-degree-of-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -255,12 +256,14 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -411,6 +414,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0374-guess-number-higher-or-lower](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
