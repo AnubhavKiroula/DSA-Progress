@@ -194,6 +194,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2506-count-pairs-of-similar-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2506-count-pairs-of-similar-strings) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -361,6 +362,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2465-number-of-distinct-averages](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -426,6 +428,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
