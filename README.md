@@ -80,6 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -175,6 +176,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1995-count-special-quadruplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1995-count-special-quadruplets) |
@@ -227,6 +229,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1394-find-lucky-integer-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
