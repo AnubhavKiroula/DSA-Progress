@@ -64,6 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0160-intersection-of-two-linked-lists) |
@@ -151,6 +152,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0056-merge-intervals](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -523,6 +525,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0324-wiggle-sort-ii) |
@@ -559,6 +562,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0102-binary-tree-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
@@ -606,6 +610,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0102-binary-tree-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
