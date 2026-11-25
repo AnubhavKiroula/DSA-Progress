@@ -224,6 +224,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [3875-construct-uniform-parity-array-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3904-smallest-stable-index-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3912-valid-elements-in-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Counting
 |  |
