@@ -105,6 +105,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2549-count-distinct-numbers-on-board](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2748-number-of-beautiful-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3046-split-the-array) |
@@ -206,6 +207,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -652,4 +654,12 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
