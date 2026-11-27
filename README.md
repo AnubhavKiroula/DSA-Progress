@@ -131,6 +131,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0796-rotate-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1496-path-crossing) |
+| [1598-crawler-log-folder](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -178,6 +179,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1598-crawler-log-folder](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -349,6 +351,7 @@ This project is licensed under the [MIT License](LICENSE).
 | [0234-palindrome-linked-list](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
+| [1598-crawler-log-folder](https://github.com/AnubhavKiroula/DSA-Progress/tree/master/1598-crawler-log-folder) |
 ## Bracket Sequences
 |  |
 | ------- |
